@@ -1,1 +1,7 @@
-/upload*
+# ignore ALL .log files
+*.png
+*.jpg
+
+
+# ignore ALL files in ANY directory named temp
+/uploader
